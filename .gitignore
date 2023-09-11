@@ -14,7 +14,7 @@
 .air.toml
 tmp
 *.yaml
-.venv
+.vscode
 
 # Test binary, built with `go test -c`
 *.test

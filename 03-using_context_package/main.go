@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/labstack/echo/v4"
 	//import server package
-	"github.com/ujblockchain/echobootcamp/02-update_server_configuration/server"
 	"github.com/ujblockchain/echobootcamp/03-using_context_package/controller/context/pages"
+	"github.com/ujblockchain/echobootcamp/03-using_context_package/server"
 )
 
 func main() {

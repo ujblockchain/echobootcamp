@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/edmundrotimi/gofarm/config"
+	"github.com/ujblockchain/echobootcamp/10-preparing_for_deployment/config"
 	//driver that will allow to work with postgres db
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
